@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <conio.h>
+#include <stdio.h> //Global
+#include <conio.h> //Global
 #include <stdlib.h> //
 #include <ctype.h>  //tolower
 #include <time.h>   //rand
